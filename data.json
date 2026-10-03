@@ -11,7 +11,7 @@
   "oldName": null,
   "address": "Financial Centre Rd, Downtown Dubai, Dubai, UAE",
   "website": "https://thedubaimall.com",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Dubai Aquarium & Underwater Zoo",
@@ -149,9 +149,9 @@
  {
   "name": "Global Village",
   "oldName": null,
-  "address": "Sheikh Mohammed Bin Zayed Rd (E311), Dubailand, Dubai, UAE",
+  "address": "Exit 37, Sheikh Mohammed Bin Zayed Road (E311), Wadi Al Safa 4, Dubailand, Dubai, UAE",
   "website": "https://www.globalvillage.ae",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Expo City Dubai",
@@ -163,9 +163,9 @@
  {
   "name": "Dubai Safari Park",
   "oldName": null,
-  "address": "Al Warqa 5, Dubai, UAE",
-  "website": "https://dubaisafari.ae",
-  "status": "unverified"
+  "address": "Al Warqa 5, off Al Aweer Road, Dubai, UAE",
+  "website": "https://www.dubaisafari.ae",
+  "status": "partial"
  },
  {
   "name": "The Green Planet",
@@ -177,9 +177,9 @@
  {
   "name": "Ski Dubai (Mall of the Emirates)",
   "oldName": null,
-  "address": "Mall of the Emirates, Sheikh Zayed Rd, Al Barsha, Dubai, UAE",
-  "website": "https://www.skidxb.com",
-  "status": "unverified"
+  "address": "Mall of the Emirates, Sheikh Zayed Road, Al Barsha 1, Dubai, UAE",
+  "website": "https://www.skidxb.com/en-ae/ski-dubai",
+  "status": "partial"
  },
  {
   "name": "Ibn Battuta Mall",
@@ -235,7 +235,7 @@
   "oldName": null,
   "address": "Al Shindagha, Bur Dubai, Dubai, UAE",
   "website": "https://www.dubaiculture.ae",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Al Seef",
@@ -275,9 +275,9 @@
  {
   "name": "Mohammed Bin Rashid Library",
   "oldName": null,
-  "address": "Jaddaf Waterfront, Al Jaddaf, Dubai, UAE",
+  "address": "Dubai Creek banks, Al Jaddaf, Dubai, UAE",
   "website": "https://www.mbrl.ae",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "La Mer",
@@ -352,9 +352,9 @@
  {
   "name": "La Perle by Dragone",
   "oldName": null,
-  "address": "Al Habtoor City, Sheikh Zayed Rd, Business Bay, Dubai, UAE",
+  "address": "Al Habtoor City, Sheikh Zayed Road, Business Bay, Dubai, UAE",
   "website": "https://laperle.com",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "XLine Dubai Marina",
@@ -380,16 +380,16 @@
  {
   "name": "Naif Museum",
   "oldName": null,
-  "address": "Naif Rd, Deira, Dubai, UAE",
+  "address": "Sikkat Al Khail Road, Naif, opposite Hyatt Regency, Deira, Dubai, UAE",
   "website": "https://www.dubaiculture.ae",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Al Ahmadiya School & Heritage House",
   "oldName": null,
-  "address": "Al Ras, Deira, Dubai, UAE",
+  "address": "Al Ahmadiya Street, Al Ras, Deira, Dubai, UAE",
   "website": "https://www.dubaiculture.ae",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Hatta Heritage Village",
@@ -513,9 +513,9 @@
  {
   "name": "Coffee Museum (Al Fahidi)",
   "oldName": null,
-  "address": "Al Fahidi Historical Neighbourhood, Bur Dubai, Dubai, UAE",
+  "address": "Villa 44, Al Hisn Street, Al Fahidi Historical Neighbourhood, Bur Dubai, Dubai, UAE",
   "website": "https://www.visitdubai.com",
-  "status": "unverified"
+  "status": "partial"
  },
  {
   "name": "Dubai Marina Mall",
