@@ -1,0 +1,541 @@
+[
+ {
+  "name": "Burj Khalifa",
+  "oldName": "Burj Dubai",
+  "address": "1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai, Dubai, UAE",
+  "website": "https://www.burjkhalifa.ae/",
+  "status": "official"
+ },
+ {
+  "name": "The Dubai Mall",
+  "oldName": null,
+  "address": "Financial Centre Rd, Downtown Dubai, Dubai, UAE",
+  "website": "https://thedubaimall.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Aquarium & Underwater Zoo",
+  "oldName": null,
+  "address": "The Dubai Mall, Downtown Dubai, Dubai, UAE",
+  "website": "https://www.thedubaiaquarium.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Fountain",
+  "oldName": null,
+  "address": "Burj Khalifa Lake, Downtown Dubai, Dubai, UAE",
+  "website": "https://thedubaimall.com",
+  "status": "unverified"
+ },
+ {
+  "name": "At.mosphere (Burj Khalifa)",
+  "oldName": null,
+  "address": "Level 122, Burj Khalifa, Downtown Dubai, Dubai, UAE",
+  "website": "https://www.atmosphereburjkhalifa.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Opera",
+  "oldName": null,
+  "address": "Sheikh Mohammed bin Rashid Blvd, Downtown Dubai, Dubai, UAE",
+  "website": "https://www.dubaiopera.com",
+  "status": "partial"
+ },
+ {
+  "name": "Jumeirah Burj Al Arab",
+  "oldName": "Burj Al Arab",
+  "address": "Jumeirah Street, PO Box 74147, Umm Suqeim 3, Dubai, UAE",
+  "website": "https://www.jumeirah.com/en/burjalarab",
+  "status": "official"
+ },
+ {
+  "name": "Madinat Jumeirah & Souk Madinat",
+  "oldName": null,
+  "address": "King Salman bin Abdulaziz Al Saud Street, Madinat Jumeirah Resort, Umm Suqeim, Dubai, UAE",
+  "website": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah",
+  "status": "partial"
+ },
+ {
+  "name": "Wild Wadi Waterpark",
+  "oldName": null,
+  "address": "Jumeirah St, Umm Suqeim 3, Dubai, UAE",
+  "website": "https://www.jumeirah.com/en/stay/dubai/wild-wadi",
+  "status": "unverified"
+ },
+ {
+  "name": "Atlantis, The Palm",
+  "oldName": null,
+  "address": "Crescent Road, Palm Jumeirah, Dubai, UAE",
+  "website": "https://www.atlantis.com/dubai/atlantis-the-palm",
+  "status": "partial"
+ },
+ {
+  "name": "Aquaventure Waterpark",
+  "oldName": null,
+  "address": "Atlantis, The Palm, Crescent Rd, Palm Jumeirah, Dubai, UAE",
+  "website": "https://www.atlantis.com/dubai",
+  "status": "unverified"
+ },
+ {
+  "name": "The View at The Palm",
+  "oldName": null,
+  "address": "The Palm Tower, Palm Jumeirah Road, 52nd Floor, Dubai, UAE",
+  "website": "https://www.theviewpalm.ae",
+  "status": "official"
+ },
+ {
+  "name": "Skydive Dubai (Palm Drop Zone)",
+  "oldName": null,
+  "address": "Al Seyahi St, Palm Jumeirah, Dubai, UAE",
+  "website": "https://www.skydivedubai.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Marina",
+  "oldName": null,
+  "address": "Marina Walk, Dubai Marina, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "The Beach at JBR",
+  "oldName": null,
+  "address": "Jumeirah Beach Residence, Al Sufouh, Dubai, UAE",
+  "website": "https://www.thebeach.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Ain Dubai",
+  "oldName": "Dubai Eye",
+  "address": "Bluewaters Island, Dubai, Dubai, UAE",
+  "website": "https://www.aindubai.com/en/",
+  "status": "official"
+ },
+ {
+  "name": "Dubai Frame",
+  "oldName": null,
+  "address": "Zabeel Park, Dubai, Dubai, UAE",
+  "website": "https://www.dubaiframe.ae/en",
+  "status": "official"
+ },
+ {
+  "name": "Dubai Garden Glow",
+  "oldName": null,
+  "address": "Zabeel Park, Oud Metha, Dubai, UAE",
+  "website": "https://www.dubaigardenglow.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Museum of the Future",
+  "oldName": null,
+  "address": "Sheikh Zayed Road, Trade Centre, Trade Centre 2, Dubai, UAE",
+  "website": "https://museumofthefuture.ae/en",
+  "status": "official"
+ },
+ {
+  "name": "Dubai Miracle Garden",
+  "oldName": null,
+  "address": "Al Barsha South 3, Dubai, UAE",
+  "website": "https://www.dubaimiraclegarden.com",
+  "status": "partial"
+ },
+ {
+  "name": "Dubai Butterfly Garden",
+  "oldName": null,
+  "address": "Dubai Miracle Garden, Al Barsha South 3, Dubai, UAE",
+  "website": "https://www.dubaibutterflygarden.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Global Village",
+  "oldName": null,
+  "address": "Sheikh Mohammed Bin Zayed Rd (E311), Dubailand, Dubai, UAE",
+  "website": "https://www.globalvillage.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Expo City Dubai",
+  "oldName": "Expo 2020 Dubai Site",
+  "address": "Expo City, Dubai South, Dubai, UAE",
+  "website": "https://www.expocitydubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Safari Park",
+  "oldName": null,
+  "address": "Al Warqa 5, Dubai, UAE",
+  "website": "https://dubaisafari.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "The Green Planet",
+  "oldName": null,
+  "address": "City Walk, Al Wasl, Dubai, UAE",
+  "website": "https://www.thegreenplanetdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Ski Dubai (Mall of the Emirates)",
+  "oldName": null,
+  "address": "Mall of the Emirates, Sheikh Zayed Rd, Al Barsha, Dubai, UAE",
+  "website": "https://www.skidxb.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Ibn Battuta Mall",
+  "oldName": null,
+  "address": "Sheikh Zayed Rd, Jebel Ali Gardens, Dubai, UAE",
+  "website": "https://www.ibnbattutamall.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Motiongate Dubai",
+  "oldName": null,
+  "address": "Dubai Parks and Resorts, Sheikh Zayed Rd, Jebel Ali, Dubai, UAE",
+  "website": "https://www.dubaiparksandresorts.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Legoland Dubai",
+  "oldName": null,
+  "address": "Dubai Parks and Resorts, Sheikh Zayed Rd, Jebel Ali, Dubai, UAE",
+  "website": "https://www.legoland.com/dubai",
+  "status": "unverified"
+ },
+ {
+  "name": "IMG Worlds of Adventure",
+  "oldName": null,
+  "address": "Sheikh Mohammed Bin Zayed Rd, Dubailand, Dubai, UAE",
+  "website": "https://imgworlds.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Fahidi Historical Neighbourhood",
+  "oldName": "Bastakiya",
+  "address": "Al Fahidi, Bur Dubai, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Museum (Al Fahidi Fort)",
+  "oldName": "Al Fahidi Fort (building)",
+  "address": "Al Fahidi St, Bur Dubai, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Shindagha Museum",
+  "oldName": null,
+  "address": "Al Shindagha, Bur Dubai, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae/en/attractions/museums/al-shindagha-museum",
+  "status": "official"
+ },
+ {
+  "name": "Sheikh Saeed Al Maktoum House",
+  "oldName": null,
+  "address": "Al Shindagha, Bur Dubai, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Seef",
+  "oldName": null,
+  "address": "Al Seef Rd, Bur Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Gold Souk",
+  "oldName": null,
+  "address": "Sikkat Al Khail Rd, Deira, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Spice Souk",
+  "oldName": null,
+  "address": "Al Ras, Deira, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Etihad Museum",
+  "oldName": null,
+  "address": "1 Jumeira Street, Al Mina, Jumeirah 1, Dubai, UAE",
+  "website": "https://etihadmuseum.ae",
+  "status": "partial"
+ },
+ {
+  "name": "Jumeirah Mosque",
+  "oldName": null,
+  "address": "Jumeirah Beach Road, Jumeirah 1, Dubai, UAE",
+  "website": "https://jumeirahmosque.ae",
+  "status": "official"
+ },
+ {
+  "name": "Mohammed Bin Rashid Library",
+  "oldName": null,
+  "address": "Jaddaf Waterfront, Al Jaddaf, Dubai, UAE",
+  "website": "https://www.mbrl.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "La Mer",
+  "oldName": null,
+  "address": "Jumeirah 1, Dubai, UAE",
+  "website": "https://lamerdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Alserkal Avenue",
+  "oldName": null,
+  "address": "17th St, Al Quoz Industrial Area 1, Dubai, UAE",
+  "website": "https://www.alserkalavenue.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Design District (d3)",
+  "oldName": null,
+  "address": "Al Mustaqbal St, Business Bay, Dubai, UAE",
+  "website": "https://www.dubaidesigndistrict.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Creek Park",
+  "oldName": null,
+  "address": "Umm Hurair 2, Oud Metha, Dubai, UAE",
+  "website": "https://www.dm.gov.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Dolphinarium",
+  "oldName": null,
+  "address": "Creek Park, Umm Hurair 2, Dubai, UAE",
+  "website": "https://www.dubaidolphinarium.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Ras Al Khor Wildlife Sanctuary",
+  "oldName": null,
+  "address": "Ras Al Khor, Nad Al Hamar Rd, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Desert Conservation Reserve",
+  "oldName": null,
+  "address": "Dubai-Al Ain Rd (E66), Al Lisaili, Dubai, UAE",
+  "website": "https://www.ddcr.org",
+  "status": "unverified"
+ },
+ {
+  "name": "Sky Views Observatory",
+  "oldName": null,
+  "address": "Emaar Square Area, Downtown Dubai, Dubai, UAE",
+  "website": "https://www.skyviewsdubai.com/",
+  "status": "official"
+ },
+ {
+  "name": "Dubai Autodrome",
+  "oldName": null,
+  "address": "Motor City, Al Hebiah, Dubai, UAE",
+  "website": "https://www.dubaiautodrome.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Meydan Racecourse",
+  "oldName": null,
+  "address": "Nad Al Sheba 1, Dubai, UAE",
+  "website": "https://www.meydan.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "La Perle by Dragone",
+  "oldName": null,
+  "address": "Al Habtoor City, Sheikh Zayed Rd, Business Bay, Dubai, UAE",
+  "website": "https://laperle.com",
+  "status": "unverified"
+ },
+ {
+  "name": "XLine Dubai Marina",
+  "oldName": null,
+  "address": "Marina Walk, Dubai Marina, Dubai, UAE",
+  "website": "https://xdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Riverland Dubai",
+  "oldName": null,
+  "address": "Dubai Parks and Resorts, Sheikh Zayed Rd, Jebel Ali, Dubai, UAE",
+  "website": "https://www.dubaiparksandresorts.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Museum of Illusions Dubai",
+  "oldName": null,
+  "address": "Al Seef, Bur Dubai, Dubai, UAE",
+  "website": "https://moidubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Naif Museum",
+  "oldName": null,
+  "address": "Naif Rd, Deira, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Ahmadiya School & Heritage House",
+  "oldName": null,
+  "address": "Al Ras, Deira, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Hatta Heritage Village",
+  "oldName": null,
+  "address": "Hatta, Dubai, UAE",
+  "website": "https://www.dubaiculture.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Zabeel Park",
+  "oldName": null,
+  "address": "Oud Metha, Dubai, UAE",
+  "website": "https://www.dm.gov.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Jumeirah Beach Park",
+  "oldName": null,
+  "address": "Jumeirah 1, Dubai, UAE",
+  "website": "https://www.dm.gov.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Mamzar Beach Park",
+  "oldName": null,
+  "address": "Al Mamzar, Dubai, UAE",
+  "website": "https://www.dm.gov.ae",
+  "status": "unverified"
+ },
+ {
+  "name": "Kite Beach",
+  "oldName": null,
+  "address": "Umm Suqeim 1, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Sunset Beach (Umm Suqeim)",
+  "oldName": null,
+  "address": "Umm Suqeim 3, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Qudra Lakes",
+  "oldName": null,
+  "address": "Al Qudra Rd, Al Qudra, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Al Marmoom Desert Conservation Reserve",
+  "oldName": null,
+  "address": "Al Marmoom, Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Hatta Dam",
+  "oldName": null,
+  "address": "Hatta, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Textile Souk (Bur Dubai)",
+  "oldName": null,
+  "address": "Al Fahidi / Bur Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Deira Old Souk Abra Stations",
+  "oldName": null,
+  "address": "Dubai Creek, Deira / Bur Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Bluewaters Island",
+  "oldName": null,
+  "address": "Bluewaters Island, Jumeirah Beach Residence area, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Water Canal",
+  "oldName": null,
+  "address": "Al Wasl / Business Bay to Jumeirah, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Jumeirah Beach Hotel",
+  "oldName": null,
+  "address": "Jumeirah St, Umm Suqeim 3, Dubai, UAE",
+  "website": "https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel",
+  "status": "unverified"
+ },
+ {
+  "name": "Atlantis The Royal",
+  "oldName": null,
+  "address": "Crescent Road, The Palm Jumeirah, Dubai, UAE",
+  "website": "https://www.atlantis.com/atlantis-the-royal",
+  "status": "partial"
+ },
+ {
+  "name": "Dubai Creek Harbour",
+  "oldName": null,
+  "address": "Ras Al Khor, Dubai Creek Harbour, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Burj Park",
+  "oldName": null,
+  "address": "Downtown Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Coffee Museum (Al Fahidi)",
+  "oldName": null,
+  "address": "Al Fahidi Historical Neighbourhood, Bur Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Dubai Marina Mall",
+  "oldName": null,
+  "address": "Dubai Marina Walk, Dubai Marina, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "Deira City Centre",
+  "oldName": null,
+  "address": "Baniyas Rd, Deira, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ },
+ {
+  "name": "BurJuman",
+  "oldName": null,
+  "address": "Trade Centre Rd, Bur Dubai, Dubai, UAE",
+  "website": "https://www.visitdubai.com",
+  "status": "unverified"
+ }
+]
